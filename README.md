@@ -46,6 +46,6 @@ I build, design, and deploy end-to-end software — from backend APIs and micros
 ---
 
 ###  Connect with Me
-- **LinkedIn:** [linkedin.com/in/foreeyez](https://linkedin.com/in/foreeyez)
+- **LinkedIn:** [linkedin.com/in/chizitelu-uyanne](https://www.linkedin.com/in/chizitelu-uyanne-53493a2a9/)
 - **Email:** foreeyes26@email.com
 - **Portfolio:** [Coming soon]() 
