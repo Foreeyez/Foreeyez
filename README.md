@@ -1,48 +1,51 @@
-# Hi there, I'm Chizitelu Uyanne
+# Hi, I'm Chizitelu (Foreeyez)
 
-## About Me
+**Full-Stack Software Engineer** | Backend-Focused | Passionate About Scalable Systems & Modern Web Apps  
 
-I'm a **Backend Developer** focused on building scalable, reliable services using **Django, PostgreSQL, and REST APIs**.
-Currently learning **microservice architecture, Docker, and cloud deployment (AWS)** while working on projects that mimic real-world systems.
-
-My goal is to build robust applications and contribute to impactful teams in backend engineering.
+I build, design, and deploy end-to-end software — from backend APIs and microservices to responsive frontends.
 
 ---
 
-## 🛠 Tech Stack
+###  Tech Stack
 
-* **Languages:** Python, SQL
-* **Frameworks:** Django, Django REST Framework
-* **Databases:** PostgreSQL
-* **Auth:** JWT, OAuth2
-* **Tools & DevOps:** Docker, Git, GitHub Actions, Linux (bash)
-* **Learning Next:** Microservices, AWS, CI/CD pipelines
+**Backend:**
+- Python (Django, FastAPI)
+- Node.js (Express, NestJS)
+- PostgreSQL, Redis, Docker, Celery
+- RESTful & GraphQL APIs
+- Microservices Architecture
 
----
+**Frontend:**
+- React.js, Next.js
+- TypeScript, JavaScript (ES6+)
+- TailwindCSS, Styled Components
 
-## 📈 Current Focus
-
-* Designing **microservices** with Django and Postgres
-* Containerizing apps with **Docker & Docker Compose**
-* Writing **clean, tested, documented APIs**
-* Exploring **AWS ECS & deployment workflows**
-
----
-
-## 📂 Featured Projects
-
-* **[Auth Service](https://github.com/Foreeyez/ecommerce-microservices/tree/main/auth_service)** — JWT authentication service with Django + Postgres
-* **[Product Service](#)** — CRUD microservice for products with role-based access
-* **[Microservices Demo](#)** — Experimenting with Docker Compose and service-to-service communication
-
-*(Links will be updated as I publish repos)*
+**DevOps / Tools:**
+- Docker & Docker Compose
+- Nginx, CI/CD (GitHub Actions)
+- AWS, Render, Railway, Vercel
 
 ---
 
-## 📬 Let's Connect
+###  Featured Projects
 
-* [LinkedIn](#)
-* [Email](foreeyes26@gmail.com)
-* [Portfolio/Blog](#) coming soon
+| Project | Description | Stack |
+|----------|--------------|-------|
+| [Auth Service](https://github.com/Foreeyez/auth_service) | Authentication microservice (JWT, DRF) | Django, Postgres, Docker |
+| [Product Service](https://github.com/Foreeyez/product_service) | Product management microservice | Django, Docker |
+| [E-commerce Frontend](https://github.com/Foreeyez/ecommerce-frontend) | Full e-commerce frontend with Next.js | Next.js, TypeScript, TailwindCSS |
+| [Portfolio Website](https://github.com/Foreeyez/portfolio) | Personal portfolio built with React | React, CSS |
 
 ---
+
+###  Currently
+- Deepening my backend architecture & system design skills  
+- Revisiting advanced JavaScript & frontend performance optimization  
+- Exploring distributed systems & event-driven architecture
+
+---
+
+###  Connect with Me
+- **LinkedIn:** [linkedin.com/in/foreeyez](https://linkedin.com/in/foreeyez)
+- **Email:** foreeyes26@email.com
+- **Portfolio:** [Coming soon]() 
